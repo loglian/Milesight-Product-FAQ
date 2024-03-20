@@ -80,7 +80,7 @@ Please contact with us if you have any urgent project need to support it.
 ### The content of uplink packet 
 Please check the details of decoder :[LINK](https://github.com/Milesight-IoT/SensorDecoders/tree/main/CT_Series/CT101)
 
-- The difference of CT10X and Controller in our energy monitoring solution
-Traditional energy detection solutions with controllers were wired, which is directly connecting to the power meter for data collection. Controller could only collect the data the power meter provided. The current and voltage values from power meter are precise, making the controller's energy detection solution suitable for billing applications.
+### The difference of CT10X and Controller in our energy monitoring solution
+- Traditional energy detection solutions with controllers were wired, which is directly connecting to the power meter for data collection. Controller could only collect the data the power meter provided. The current and voltage values from power meter are precise, making the controller's energy detection solution suitable for billing applications.
 
 - While for CT10X, it offers a wireless solution that focuses more on status monitoring rather than precise measurement. By monitoring the current on the live wire, it indirectly reflects the current device status—whether it is operating normally or experiencing power failure. Additionally, through high-frequency to collect current by CT10X, the detections can be used to calculate approximate energy consumption of the measured device based on the known voltage and power factors.
