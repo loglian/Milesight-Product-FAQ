@@ -37,11 +37,12 @@ User guide of CT10X : [CT10x User Guide-V1.0.pdf](https://resource.milesight.com
 
 #### Specific instructions:
 Open the current transformer to clip it around a single-phase wire. Then close the clip with a slight “click” sound to confirm a firm grip on the wire.
+
 ![Open](https://www.milesight.com/static/pc/en/iot/product/lorawan-sensor/ct10x/open.png?t=1710493626196)
 ![Insert](https://www.milesight.com/static/pc/en/iot/product/lorawan-sensor/ct10x/insert.png?t=1710493626196)
 ![Secured](https://www.milesight.com/static/pc/en/iot/product/lorawan-sensor/ct10x/secure.png?t=1710493626196)
-**Note : Do not place Phase wire and Neutral wire within a single current transformer.**
 
+**Note : Do not place Phase wire and Neutral wire within a single current transformer.**
 
 
 The deployment process is easy and non-intrusive, ensuring that the normal operation of the tested device is not affected during installation.
