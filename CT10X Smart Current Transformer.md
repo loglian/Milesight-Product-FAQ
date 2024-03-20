@@ -17,12 +17,16 @@ The main functionality of this current transformer is to detect the current stat
 
 
 ## Appearance
+![](https://www.milesight.com/static/pc/en/iot/product/lorawan-sensor/ct10x/ct10x-front-small.png?t=1710493626196)
+![](https://www.milesight.com/static/pc/en/iot/product/lorawan-sensor/ct10x/ct10x-side-small.png?t=1710493626196)
+![](https://www.milesight.com/static/pc/en/iot/product/lorawan-sensor/ct10x/ct10x-bottom-small.png?t=1710493626196)
 
 
+![]()
 
 
 ## Datasheet
-
+[CT10x Datasheet V1.0.pdf](https://resource.milesight.com/milesight/iot/document/ct10x-datasheet-en.pdf)
 
 ## FAQ
 ### How to use CT10X?
@@ -33,7 +37,9 @@ User guide of CT10X : [CT10x User Guide-V1.0.pdf](https://resource.milesight.com
 
 #### Specific instructions:
 Open the current transformer to clip it around a single-phase wire. Then close the clip with a slight “click” sound to confirm a firm grip on the wire.
-
+![Open](https://www.milesight.com/static/pc/en/iot/product/lorawan-sensor/ct10x/open.png?t=1710493626196)
+![Insert](https://www.milesight.com/static/pc/en/iot/product/lorawan-sensor/ct10x/insert.png?t=1710493626196)
+![Secured](https://www.milesight.com/static/pc/en/iot/product/lorawan-sensor/ct10x/secure.png?t=1710493626196)
 **Note : Do not place Phase wire and Neutral wire within a single current transformer.**
 
 
