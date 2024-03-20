@@ -56,9 +56,9 @@ Based on our internal test, the device could still operate for approximately 5.3
 
 ### Comparison between the stick antenna and suction cup antenna:
 #### Stick antenna gain : 
-1.8dbi for 868M  (Antenna specifications : ZCA868-0201BSM.pdf)
+- 1.8dbi for 868M  (Antenna specifications : ZCA868-0201BSM.pdf)
 
-3.0dbi for 915M  (Antenna specifications : ZCA915-0201BSM.pdf)
+- 3.0dbi for 915M  (Antenna specifications : ZCA915-0201BSM.pdf)
 
 #### Suction cup antenna gain : 
 ≤1dbi
